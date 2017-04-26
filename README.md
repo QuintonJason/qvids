@@ -1,8 +1,6 @@
 # qvids
 
-This is a minimal Electron application based on the [videoconverter.js](https://bgrins.github.io/videoconverter.js/) within the Electron documentation.
-
-**Use this app along with the [Electron API Demos](http://electron.atom.io/#get-started) app for API code examples to help you get started.**
+This is a minimal Electron application based on the [videoconverter.js](https://bgrins.github.io/videoconverter.js/)
 
 ## To Use
 
