@@ -1,0 +1,56 @@
+
+
+//repo styles
+#terminal {
+  background: #fff;
+  color: #000;
+  font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+  font-weight: lighter;
+  border: solid 1px;
+  padding: 10px;
+  margin-top: 35px;
+}
+.terminal-top-bar {
+  background: rgb(233, 233, 233);
+  height: 14px;
+  font-size: 12px;
+  line-height: 14px;
+  margin-top: -30px;
+  margin-left: -11px;
+  margin-right: -11px;
+  padding: 3px;
+  text-align: center;
+  color: rgb(92, 92, 92);
+  border: solid 1px;
+  border-radius: 2px 2px 0 0;
+}
+.terminal-header {
+  padding-top: 15px;
+}
+#input {
+  width: 80%;
+  padding: 4px;
+}
+#run {
+  width: 15%
+}
+#output {
+  white-space: pre-wrap;
+  word-break: break-all;
+  // display: none;
+}
+#output.closed {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+#files {
+  text-align: center;
+}
+#files img {
+  max-width: 80%;
+}
+.sample-commands {
+  text-align: center;
+}
+
+//q styles
