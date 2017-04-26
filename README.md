@@ -2,6 +2,12 @@
 
 This is a minimal Electron application based on the [videoconverter.js](https://bgrins.github.io/videoconverter.js/)
 
+## Roadmap
+
+-Pull vids from app subfolder
+-Ability to rearrange vid array before merge
+-Better UI
+
 ## To Use
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
