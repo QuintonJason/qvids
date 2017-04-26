@@ -4,9 +4,9 @@ This is a minimal Electron application based on the [videoconverter.js](https://
 
 ## Roadmap
 
--Pull vids from app subfolder
--Ability to rearrange vid array before merge
--Better UI
+- Pull vids from app subfolder
+- Ability to rearrange vid array before merge
+- Better UI
 
 ## To Use
 
