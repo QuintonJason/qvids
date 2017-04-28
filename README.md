@@ -1,12 +1,13 @@
 # qvids
 
-This is a minimal Electron application based on the [videoconverter.js](https://bgrins.github.io/videoconverter.js/)
+This is a minimal Electron application based on the [videoconverter.js](https://bgrins.github.io/videoconverter.js/) repository.
 
 ## Roadmap
 
 - Pull vids from app subfolder
 - Ability to rearrange vid array before merge
 - Better UI
+- Package App for distribution in OS
 
 ## To Use
 
